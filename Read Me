@@ -1,0 +1,6 @@
+this project is used for geting pictures and vedios in wechat group chat by the package itchat.
+Before excuting the main.py， please install python3 and the pacakage itchat.
+after exucting ths main.py, there will be a 2-D code appear in the screen, scane it by your wechat scanner --to confirm login in wechat by your pc
+main.py will create directroys and html files，when you and your chat-group friends send a jpg，png，mp4 file in your any chatgroup
+
+this is my 1st git project ，enjoy it, and edit it as your like!
